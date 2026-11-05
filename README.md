@@ -4,6 +4,7 @@ A small CLI that sorts files in a folder by extension.
 
 ## Usage
 
+```bash
 go run . <directory> --dry-run
 go run . <directory> --apply
 
