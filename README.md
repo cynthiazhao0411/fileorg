@@ -7,6 +7,8 @@ A small CLI that sorts files in a folder by extension.
 ```bash
 go run . <directory> --dry-run
 go run . <directory> --apply
+```bash
+
 
 `--dry-run` prints what would move. `--apply` actually moves files.
 
